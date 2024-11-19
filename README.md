@@ -1,4 +1,4 @@
-Browsing
+Atomic-design
 
 Context:
 
